@@ -1,0 +1,1 @@
+Location of Mapping file: https://mytakeda.sharepoint.com/:x:/r/sites/GlobalProcessCapabilityDashboards/Shared%20Documents/PIC/SPECIFICAITON_MAPPING.xlsx?d=wa5592e1947a74485b8b73aa50f1634bd&csf=1&web=1&e=YCNCNE
