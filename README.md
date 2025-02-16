@@ -54,11 +54,13 @@ query = f"SELECT * FROM {txn_tbl_nm}"
 txn_data = pd.read_sql(query, engine)
 ```
 
-In https://onetakeda-usdev.cloud.databricks.com/. Download the entire data by running:
+In https://onetakeda-usdev.cloud.databricks.com/, download the entire ref-data by running:
 ```
 display(ref_data)
 ```
-Subsequently, click here:
+Subsequently, click 'Download all rows (up to 5GB compressed)':
+<img width="1451" alt="image" src="https://github.com/user-attachments/assets/04ffb40a-62dd-4a74-a5a4-66d968250ea1" />
 
+Perform the same operation for txn-data.
 
 
